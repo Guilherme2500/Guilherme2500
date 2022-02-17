@@ -1,7 +1,7 @@
 ### Olá!! Eu sou Guilherme Martin🚀
 
 - 🔭 Procuro trabalho onde posso atuar como cientista de dados e programador
-- 🎸 Estou estudando python e java
+- 🎸 Atualmente, estou estudando python e java 
 - 📫 email: martins_guilherme@id.uff.br
 
 <div align="center">

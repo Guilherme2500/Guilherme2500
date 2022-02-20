@@ -1,4 +1,4 @@
-### Olá!! Eu sou Guilherme Martin🚀
+### Olá!! Eu sou Guilherme Martins🚀
 
 - 🔭 Procuro trabalho onde posso atuar como cientista de dados e programador
 - 🎸 Atualmente, estou estudando python e java 

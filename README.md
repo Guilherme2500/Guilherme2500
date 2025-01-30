@@ -1,8 +1,8 @@
 ### Olá!! Eu sou Guilherme Martins🚀
 
-- 🔭 Procuro trabalho onde posso atuar como cientista de dados e programador
-- 🎸 Atualmente, estou estudando python e java 
-- 📫 email: martins_guilherme@id.uff.br
+- 🔭 Procuro vagas de Ciência de dados e engenheiro de machine learning
+- 🎸 Atualmente, estou estudando Python e análise de dados
+- 📫 email: guimsilva850@gmail.com
 
 <div align="center">
   <a href="https://github.com/Guilherme2500">
@@ -22,7 +22,7 @@
   ##
   
   <div> 
-  <a href = "mailto:martins_guilherme@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guimsilva850@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-martins-9043861a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  

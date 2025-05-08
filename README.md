@@ -1,7 +1,7 @@
 ### Olá!! Eu sou Guilherme Martins🚀
 
-- 🔭 Procuro vagas de Ciência de dados e engenheiro de machine learning
-- 🎸 Atualmente, estou estudando Python e análise de dados
+- 🔭 Procuro vagas nas áreas de Desenvolvimento ou Dados
+- 🎸 Atualmente, estou estudando Python, Java e JavaScript
 - 📫 email: guimsilva850@gmail.com
 
 <div align="center">

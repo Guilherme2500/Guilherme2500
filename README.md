@@ -1,7 +1,7 @@
 ### Olá!! Eu sou Guilherme Martins🚀
 
-- 🔭 Procuro vagas nas áreas de Desenvolvimento ou Dados
-- 🎸 Atualmente, estou estudando Python, Java e JavaScript
+- 🔭 Procuro vagas na área de Dados 
+- 🎸 Atualmente, estou estudando Java e Python
 - 📫 email: guimsilva850@gmail.com
 
 <div align="center">
